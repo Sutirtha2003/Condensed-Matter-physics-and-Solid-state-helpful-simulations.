@@ -1,7 +1,6 @@
-# SoliDRIL
-Jupiter notebooks for Solid State Physics courses at EPFL
 
-## TO DO LIST
+
+
 
 The (Lower) ones are not urgent. (regular) or (R) are what we discussed
 
